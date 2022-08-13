@@ -25,5 +25,5 @@ echo "Please enter root user password"
 passwd
 
 echo "Creating new user"
-useradd joaquim
+useradd lucas
 
